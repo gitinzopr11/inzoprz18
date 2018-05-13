@@ -1,1 +1,1 @@
-czkawka
+To jest projekt z Inzynierii Oprogramowania.
